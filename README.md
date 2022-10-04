@@ -1,4 +1,10 @@
-# byte-new
+# PROJETO-PADRAO-VUE
+
+- Padrão para projetos de desenvolvimento com VUE.
+
+- Neste temos a instalação do VUE, com os exemplos que o VUE traz já limpos, basta CLONAR e usar.
+
+
 
 ## Project setup
 ```
